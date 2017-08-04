@@ -1,0 +1,21 @@
+{
+  "name": "bothelpertelegram",
+  "description": "Private helper-bot",
+  "scripts": {
+  },
+  "env": {
+    "": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/fuutoinc/bothelpertelegram"
+    }
+  ]
+}
